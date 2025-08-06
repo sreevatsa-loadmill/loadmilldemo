@@ -734,7 +734,7 @@ flows:
     order: 3
     conf:
       meta:
-        description: Sign In, Add Products, Remove Product
+        description: Sign In, Add Products, Remove Products
       requests:
         
         - description: 🌐 load the app’s main setup information
